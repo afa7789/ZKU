@@ -1,4 +1,4 @@
-![!Theme Image](resources/zku_Banner_1.png)
+![!Theme Image](resources/zku_banner_1.png)
 # ZKU: Zero knowledge university
 
 [ZKU](https://www.harmonyzku.one/) is an [online course](https://zku.one/) / informal study group, for software developers to learn how to build market-ready products in web3 using zero-knowledge proof technology. `both links are viable.`
