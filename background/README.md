@@ -111,9 +111,7 @@ I used this site https://profitplane.com/str-to-bytes32, doesn't have 100% imple
 
 #### Proposed change for Ballot
 
-To see the complete code, please check the folder at the repository.
-To check the entire code , check it here:
-
+To see the complete code, please check the folder at the repository it's here :
 [https://github.com/afa7789/zku_assignments/tree/main/background/ballot_challenge.sol](https://github.com/afa7789/zku_assignments/tree/main/background/ballot_challenge.sol)
 
 ```sol
