@@ -12,6 +12,15 @@ This is the older test, I made it before I could apply to study
 This is the test I took to enter in ZKU, with other files related to it.
 Click in the title too see the answers and code as README.
 
+I had to drop after week2 ( hope I can make it in the future).
+
+Missing cohorts:
+https://github.com/zku-cohort-3/week3
+https://github.com/zku-cohort-3/week4
+https://github.com/zku-cohort-3/week5
+and the final project of course.
+
+
 ## Appreaction
 
 Special thanks for [Semar](https://www.linkedin.com/in/semar-augusto) who told me about it.
