@@ -15,9 +15,13 @@ Click in the title too see the answers and code as README.
 I had to drop after week2 ( hope I can make it in the future).
 
 Missing cohorts:
+
 https://github.com/zku-cohort-3/week3
+
 https://github.com/zku-cohort-3/week4
+
 https://github.com/zku-cohort-3/week5
+
 and the final project of course.
 
 
